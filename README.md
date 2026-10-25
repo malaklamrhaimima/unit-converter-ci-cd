@@ -5,9 +5,9 @@ Theme: Unit Converter
 ## Team
 | Member | GitHub username | Feature |
 |---|---|---|
-| Name 1 | username1 | Length conversion (converter/length.py) |
-| Name 2 | username2 | Temperature conversion (converter/temperature.py) |
-| Name 3 | username3 | Weight conversion (converter/weight.py) |
+| Hiba Aoufouchi | Hibaaoufouchi4-bot | Length conversion (converter/length.py) |
+| Malak lamrhaimima | Malaklamrhaimima | Temperature conversion (converter/temperature.py) |
+| Nihad ADfou | NihadADF | Weight conversion (converter/weight.py) |
 
 Project status: Development in progress.
 
